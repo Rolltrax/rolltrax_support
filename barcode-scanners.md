@@ -1,0 +1,1 @@
+During our alpha testing phase, we tested numerous barcode scanners until we found ones that would satisfy our requirements. Below is a list of scanners that we tried and the pros and cons of using them with Rolltrax.
