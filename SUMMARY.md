@@ -1,4 +1,5 @@
 # Table of contents
 
 * [Home](README.md)
-* [Frequently Asked Questions](FAQ.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
+
